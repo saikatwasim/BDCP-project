@@ -1,0 +1,373 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+}
+.full-div{
+    width: 1200px;
+    margin: auto;
+    background-color: #f5f6fa;
+    border-radius: 40px;
+    box-shadow: 10px 10px 20px;
+}
+
+.heading-div{
+    background-color:#485460;
+    display: flex;
+    height: 30px;
+    box-shadow: 10px 10px 20px;
+    border-radius: 5px;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0 2px 2px 2px;
+}
+.header-h1{
+    color: #0be881;
+ 
+    padding: 5px;
+    font-size: 12pt;
+    text-shadow: 2px 2px 4px;
+    
+}
+.bdl-pic{
+    text-shadow: 5px 5px 5px;
+}
+.log-in{
+    color: #192a56;
+    text-shadow: 1px 1px 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    padding-right: 5px;
+    padding-left: 5px;
+  
+    
+    
+}
+.log-in:hover{
+    font-size: 20pt;
+}
+.about-cricket{
+    margin-top: 50px;
+}
+.div2-h1{
+    text-align: center;
+    margin-bottom: 20px;
+    color:#2C3A47;
+    text-shadow: 5px 5px 7px;
+}
+.full-div{
+
+    
+}
+.logo-h1{
+    display: flex;
+}
+.search{
+    
+    
+    box-shadow: 5px 5px 10px;
+    margin-left: 300px;
+    padding:0 200px 0 200px;
+    border-radius: 10px;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+/*FORM HTML CSS*/
+
+.form{
+    text-align: center;
+    background-color: #B33771;
+    width: 50%;
+    margin: auto;
+    border-radius:0 300px 0 300px;
+    padding: 100px;
+    box-shadow: 20px 20px 40px #FEA47F;
+    color: white ;
+
+}
+.first-heading{
+    background-color: #485460;
+    color: #0be881;
+   width: 50%;
+   margin: auto;
+   text-align: center;
+   text-shadow: 2px 2px 5px ;
+   box-shadow: 5px 5px 20px;
+   
+
+}
+.nd-heading{
+    text-align: center;
+    color: #485460;
+    
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    
+}
+
+.emni:hover{
+    width: 200px;
+    font-size: large;
+    font-family: cursive ;
+    color: #8c00ff;
+    background:#182C61;
+}
+
+/*about bangladesh cricket players*/
+
+.bdcp{
+    text-align: center;
+
+    
+}
+.bdcp-hd{
+    background-color: #4f5552;
+    display: flex;
+    margin-bottom: 100px;
+   
+
+}
+.h-logo{
+    width: 40px;
+}
+.bdcp-h2{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    color: #d2d4d0;
+    text-shadow: 2px 2px 4px;
+}
+.mortaza{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+
+
+}
+.sakib{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto; 
+    padding: 50px;
+}
+.mushfiq{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+
+.tamim{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.liton{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.mahmudulla{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+
+.mehedi{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.soumya{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.mosaddek{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+
+}
+.mustafiz{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.mominul{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.taskin{
+    width: 80%;
+    border: 10px solid #ecf0f1;
+    display: flex;
+    border-radius: 30px;
+    box-shadow: 10px 10px 50px;
+    margin: auto;
+    padding: 50px;
+}
+.bdcp-h1{
+    color:#14180f ;
+    font-family: cursive ;
+    text-shadow: 5px 5px 10px blue;
+    margin-top: 100px;
+}
+ol{
+    color: #182C61 ;
+    
+}
+li:hover{
+    font-size: 20pt;
+    background-color: #d2d4d0;
+    display: inline-block;
+}
+span:hover{
+    font-size: larger ;
+    
+
+}
+.ol-2{
+    text-align: right;
+   
+}
+
+
+span{
+    font-size: 20pt;
+    color: #6D214F;
+    text-transform: uppercase ;
+    text-shadow: 2px 2px 5px #ff3838;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.heading-ss{
+    background-color:#485460;
+    display: flex;
+    height: 30px;
+    box-shadow: 10px 10px 20px;
+    border-radius: 5px;
+    
+    padding: 10px;
+    margin: 0 2px 2px 2px;
+}
+.last-h1{
+    text-align: center;
+    margin-top: 100px;
+    color: #8c00ff;
+    text-shadow: 10px 10px 40px;
+}
+.sk{
+    width: 50%;
+}
